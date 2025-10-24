@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "facebook-unity-sdk": {
+      "name": "facebook-unity-sdk",
+      "sourcePackageName": "com.homagames.analytics.facebook",
+      "projectRelativePath": "Packages/com.homagames.analytics.facebook/Dependencies/facebook-unity-sdk-18.0.0-no-gui.unitypackage",
+      "files": [
+        "Assets/FacebookSDK",
+        "Assets/Editor/DisableBitcode.cs",
+        "Assets/StreamingAssets/meta-logo.png",
+        "Assets/StreamingAssets/meta.mp4"
+      ],
+      "filesToRemove": [
+        "Assets/FacebookSDK/Examples",
+        "Assets/ExternalDependencyManager"
+      ],
+      "version": "18.0.0"
+    }
+  }
+}
